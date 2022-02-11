@@ -1,6 +1,6 @@
 AUTHOR = 'rkeele'
 SITENAME = 'CMPUT 404 Lab 5'
-SITEURL = 'https://reillykeele.github.io/cmput404-lab5/'
+SITEURL = 'https://reillykeele.github.io/cmput404-lab5'
 
 PATH = 'content'
 
